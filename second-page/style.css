@@ -89,9 +89,8 @@ i.fa-solid.fa-angle-right {
 }
 
 .header-detail a:hover {
-    background: rgb(95, 3, 3);
-    /* padding: 16px 25px;
-    border: 1px solid white; */
+    background: rgb(255, 255, 255);
+    color: black;
 }
 
 /*---------
